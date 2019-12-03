@@ -2,6 +2,10 @@
 
 this is a tools develped by me.
 
+you can use it by upload excel what you want to compare width online json data.
+
+just modify the index.php, the upload url
+
 the main functions:
 
 cratch designated url json datas
